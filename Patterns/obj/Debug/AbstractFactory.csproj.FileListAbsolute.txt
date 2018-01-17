@@ -1,0 +1,9 @@
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\bin\Debug\Patterns.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\Patterns\bin\Debug\Patterns.exe.config
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\Patterns\obj\Debug\Patterns.exe
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\Patterns\obj\Debug\Patterns.pdb
