@@ -1,0 +1,9 @@
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\bin\Debug\PoolObject.exe.config
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\obj\Debug\PoolObject.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\bin\Debug\PoolObject.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\bin\Debug\PoolObject.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\obj\Debug\PoolObject.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\PoolObject\obj\Debug\PoolObject.pdb
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\PoolObject\bin\Debug\PoolObject.exe.config
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\PoolObject\obj\Debug\PoolObject.exe
+D:\DOCUMENTS\ITSTEP\Patterns\Patterns\PoolObject\obj\Debug\PoolObject.pdb

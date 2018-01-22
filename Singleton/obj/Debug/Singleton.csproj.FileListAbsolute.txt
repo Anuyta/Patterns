@@ -1,0 +1,6 @@
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\bin\Debug\Singleton.exe.config
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\bin\Debug\Singleton.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\bin\Debug\Singleton.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\obj\Debug\Singleton.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Patterns\Singleton\obj\Debug\Singleton.pdb
