@@ -12,12 +12,14 @@ namespace Adapter
 
         public CountLetterAdapter(string str)
         {
-            this.str = str;
+            this.Str = str;
         }
+
+        public string Str { get; set; }
 
         public int CountLetter(char c)
         {
-            var count = str.Count(chr => chr == c);
+            var count = Str.Count(chr => chr == c);
             return count;
         }
     }
