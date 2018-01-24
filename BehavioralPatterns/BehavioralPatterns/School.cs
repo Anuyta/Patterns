@@ -2,6 +2,8 @@
 {
     class School : Studying
     {
+        public int Number { get; set; }
+
         protected override void Enter()
         {
             System.Console.WriteLine("I entered in school");
