@@ -1,0 +1,11 @@
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\bin\Debug\Task1.exe.config
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\bin\Debug\Task1.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\bin\Debug\Task1.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.exe
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\bin\Debug\ServicesLib.dll
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\bin\Debug\ServicesLib.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\Task1\obj\Debug\Task1.MainForm.resources

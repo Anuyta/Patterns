@@ -1,0 +1,7 @@
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\bin\Debug\ServicesLib.dll
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\bin\Debug\ServicesLib.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\obj\Debug\ServicesLib.dll
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\obj\Debug\ServicesLib.pdb
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\obj\Debug\ServicesLib.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\obj\Debug\Interop.WMPLib.dll
+D:\DOCUMENTS\ITSTEP\dev\Patterns\Task1\ServicesLib\obj\Debug\ServicesLib.csproj.ResolveComReference.cache
